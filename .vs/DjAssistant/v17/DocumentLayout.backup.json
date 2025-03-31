@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5DC764-F811-4BBF-83E4-6D737E121689}|rekordassistant-web\\rekordassistant-web.csproj|c:\\users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\rekordassistant-web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA5DC764-F811-4BBF-83E4-6D737E121689}|rekordassistant-web\\rekordassistant-web.csproj|solutionrelative:rekordassistant-web\\rekordassistant-web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5DC764-F811-4BBF-83E4-6D737E121689}|rekordassistant-web\\rekordassistant-web.csproj|c:\\users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5DC764-F811-4BBF-83E4-6D737E121689}|rekordassistant-web\\rekordassistant-web.csproj|solutionrelative:rekordassistant-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5DC764-F811-4BBF-83E4-6D737E121689}|rekordassistant-web\\rekordassistant-web.csproj|c:\\users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5DC764-F811-4BBF-83E4-6D737E121689}|rekordassistant-web\\rekordassistant-web.csproj|solutionrelative:rekordassistant-web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A433BE6-3596-C1EE-C207-3C6D25ADBB0B}|rekordassistant-webAssembly\\DashboardFrontend.Client.csproj|c:\\users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A433BE6-3596-C1EE-C207-3C6D25ADBB0B}|rekordassistant-webAssembly\\DashboardFrontend.Client.csproj|solutionrelative:rekordassistant-webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA566658-66E7-4ADB-B3BA-07FE8BC34F28}|app-host\\app-host.csproj|c:\\users\\guill\\source\\repos\\rekordassistant-ai-app\\app-host\\app-host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA566658-66E7-4ADB-B3BA-07FE8BC34F28}|app-host\\app-host.csproj|solutionrelative:app-host\\app-host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\appsettings.json",
+              "RelativeDocumentMoniker": "rekordassistant-web\\appsettings.json",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\appsettings.json",
+              "RelativeToolTip": "rekordassistant-web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T18:39:16.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-webAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "rekordassistant-webAssembly\\Program.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-webAssembly\\Program.cs",
+              "RelativeToolTip": "rekordassistant-webAssembly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:38:48.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\Program.cs",
+              "RelativeDocumentMoniker": "rekordassistant-web\\Program.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\Program.cs",
+              "RelativeToolTip": "rekordassistant-web\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:27:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rekordassistant-web.csproj",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\rekordassistant-web.csproj",
+              "RelativeDocumentMoniker": "rekordassistant-web\\rekordassistant-web.csproj",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\rekordassistant-web\\rekordassistant-web.csproj",
+              "RelativeToolTip": "rekordassistant-web\\rekordassistant-web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T15:19:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-host.csproj",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\app-host\\app-host.csproj",
+              "RelativeDocumentMoniker": "app-host\\app-host.csproj",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\rekordassistant-ai-app\\app-host\\app-host.csproj",
+              "RelativeToolTip": "app-host\\app-host.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T15:18:01.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
